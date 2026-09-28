@@ -1,3 +1,6 @@
+#features are available within https://buddy.wasko.org
+this software is no longer updated
+
 For performing CRISPR in Saccharomyces cerevisiae (yeast) to edit the genome to change an individual amino acid within a desired protein/gene. 
 
 Input a yeast gene name, the amino acid number, and amino acid substituion desired and this python script finds nearby sgRNA target sites and generates oligonucleotides for cloning into the plasmid pML104 (or similar) and repair template oligonucleotide sequences necessary to generate a desired gene edit.  
